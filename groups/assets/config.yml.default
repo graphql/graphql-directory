@@ -1,0 +1,5 @@
+group-name: '...' # This is the name of the group, found in the settings export file
+group-domain: 'lists....org' # This is the domain you use to access the group
+main-list: 'main' # This should probably stay 'main' unless you renamed the main list
+unified-list: '...' # Everyone gets added to this list.  Leave blank ('') to disable
+index-template-file: 'INDEX_TEMPLATE.txt.default' # This controls the content of the generated README.md

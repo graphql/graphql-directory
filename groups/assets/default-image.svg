@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="512" height="512" viewBox="0, 0, 512, 512">
+  <defs>
+    <filter id="Shadow_1">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2.5"/>
+      <feOffset dx="0" dy="2" result="offsetblur"/>
+      <feFlood flood-color="#000000"/>
+      <feComposite in2="offsetblur" operator="in"/>
+    </filter>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="256.5" y1="0.5" x2="256.5" y2="512.5">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D4D4D4"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1">
+    <g>
+      <path d="M0.5,-4.5 L60.5,-4.5 L60.5,0.5 L110.5,0.5 L110.5,-4.5 L170.5,-4.5 L170.5,0.5 L220.5,0.5 L220.5,-4.5 L280.5,-4.5 L280.5,0.5 L330.5,0.5 L330.5,-4.5 L390.5,-4.5 L390.5,0.5 L440.5,0.5 L440.5,-4.5 L500.5,-4.5 L500.5,0.5 L512.5,0.5 L512.5,38.5 L517.5,38.5 L517.5,98.5 L512.5,98.5 L512.5,148.5 L517.5,148.5 L517.5,208.5 L512.5,208.5 L512.5,258.5 L517.5,258.5 L517.5,318.5 L512.5,318.5 L512.5,368.5 L517.5,368.5 L517.5,428.5 L512.5,428.5 L512.5,478.5 L517.5,478.5 L517.5,517.5 L486.5,517.5 L486.5,512.5 L436.5,512.5 L436.5,517.5 L376.5,517.5 L376.5,512.5 L326.5,512.5 L326.5,517.5 L266.5,517.5 L266.5,512.5 L216.5,512.5 L216.5,517.5 L156.5,517.5 L156.5,512.5 L106.5,512.5 L106.5,517.5 L46.5,517.5 L46.5,512.5 L0.5,512.5 L0.5,508.5 L-4.5,508.5 L-4.5,448.5 L0.5,448.5 L0.5,398.5 L-4.5,398.5 L-4.5,338.5 L0.5,338.5 L0.5,288.5 L-4.5,288.5 L-4.5,228.5 L0.5,228.5 L0.5,178.5 L-4.5,178.5 L-4.5,118.5 L0.5,118.5 L0.5,68.5 L-4.5,68.5 L-4.5,8.5 L0.5,8.5 L0.5,-4.5 z" filter="url(#Shadow_1)" fill="rgba(0,0,0,0.647)"/>
+      <path d="M0.5,0.5 L512.5,0.5 L512.5,512.5 L0.5,512.5 L0.5,0.5 z" fill="url(#Gradient_1)"/>
+      <path d="M0.5,0.5 L512.5,0.5 L512.5,512.5 L0.5,512.5 L0.5,0.5 z" fill-opacity="0" stroke="#000000" stroke-width="10" stroke-dasharray="60,50"/>
+    </g>
+    <text transform="matrix(1, -0.004, 0.004, 1, 256, 256)">
+      <tspan x="-169.458" y="-30.469" font-family="Arial-BoldMT" font-size="100" fill="#000000">Default</tspan>
+      <tspan x="-144.507" y="84.531" font-family="Arial-BoldMT" font-size="100" fill="#000000">Image</tspan>
+    </text>
+  </g>
+</svg>

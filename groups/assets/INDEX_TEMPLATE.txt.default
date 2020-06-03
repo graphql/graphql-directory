@@ -1,0 +1,14 @@
+
+# Workgroup and Maintainer Directory
+
+Projectname is an open source project, hosted at the Linux Foundation.
+
+$subgroups
+
+---
+
+This directory is automatically generated.  To make changes, please submit a
+pull request against a file in [$group_configs_dir](/$group_configs_dir).
+
+<!-- Last generated: $generated_date -->
+

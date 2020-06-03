@@ -1,0 +1,20 @@
+# vim: ts=2 sw=2 et
+
+testgroup1-wg:
+  name: 'Test Group 1 (with only the minimal options)'
+  description: 'This is an example of a basic group that meets the minimum requirements.'
+  list-members:
+    - email: Person1@example.com
+      name: Person1 Name
+    - email: Person2@example.com
+      name: Person2 Name
+    - email: Person3@example.com
+      name: Person3 Name
+nonexistentgroup:
+  name: 'This Group is not in groups.io'
+  description: 'This group will not be added.'
+  list-members:
+    - email: Person4@example.com
+      name: Person4 Name
+    - email: Person5@example.com
+      name: Person5 Name

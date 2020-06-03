@@ -1,0 +1,72 @@
+# vim: ts=2 sw=2 et
+
+# Use this file as a template for configuring other groups.
+
+testgroup2-wg:
+  name: 'Test Group 2 (with all options)'
+  description: >
+    This is an example of a complete group, with much more developed
+    information.  There are a lot of optional fields that can be added, and they
+    will be built into the directory.
+  logo: groups/assets/default-image.svg
+  about-url: https://linuxfoundation.org
+  development-list: https://link-to-dev-list
+  youtube: https://youtube.com/...
+  slack: https://project.slack.com
+  irc: '#project'
+  discourse: https://project.discourse.org
+  chat: https://project.slack.com
+  calendar: https://calendar.google.com
+  charter: ../CHARTER.md
+  code-of-conduct: ../CODE_OF_CONDUCT.md
+  contributing: ../CONTRIBUTING.md
+  artwork: https://github.com/project/artwork
+  twitter-username: project
+  linkedin-username: project
+  git:
+    - repo: https://github.com/project/repo1
+    - repo: https://github.com/project/repo2
+    - repo: https://github.com/project/repo3
+    - repo: https://github.com/project/repo4
+  list-members:
+    - email: Person1@example.com
+      name: Person1 Name
+      roles:
+        - title: Chairperson
+          is-voting: True
+          term-begins: 2020-01-01
+          term-ends: 2020-12-31
+        - title: Website maintainer
+          term-begins: 2019-01-01
+      photo: groups/assets/default-image.svg
+      sponsor: ACME Inc.
+      bio: >
+    I work for ACME Inc. as a senior engineer on Project.
+      sponsor-website: https://acmeinc.com
+      github-username: projectmember1
+      twitter-username: projectmember1
+      linkedin-username: projectmember1
+      website: https://projectmember1.com
+      pronouns: They/them
+    - email: Person2@example.com
+      name: Person2 Name
+      roles:
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-01-01
+          term-ends: 2020-12-31
+      photo: groups/assets/default-image.svg
+      sponsor: Anothercorp Inc.
+      github-username: projectmember2
+      website: https://projectmember2.com
+      pronouns: Please ask
+    - email: Person3@example.com
+      name: Person3 Name
+      roles:
+        - title: TSC observer
+          term-begins: 2020-01-01
+          term-ends: 2020-12-31
+      photo: groups/assets/default-image.svg
+      github-username: projectmember3
+      website: https://projectmember3.com
+      include-on-meta-list: False
