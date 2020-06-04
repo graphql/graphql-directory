@@ -1,0 +1,5 @@
+group-name: 'graphql' # This is the name of the group, found in the settings export file
+group-domain: 'lists.foundation.graphql.org' # This is the domain you use to access the group
+main-list: 'main' # This should probably stay 'main' unless you renamed the main list
+unified-list: 'technical-leadership' # Everyone gets added to this list.  Leave blank ('') to disable
+index-template-file: 'INDEX_TEMPLATE.txt' # This controls the content of the generated README.md
