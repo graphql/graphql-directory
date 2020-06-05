@@ -1,0 +1,61 @@
+# vim: ts=2 sw=2 et
+
+mentorship:
+  name: 'Mentorship coordination team'
+  description: >
+    This group is for coordination of mentorship programs within the GraphQL Foundation. The members
+    of this list are individuals from the GraphQL Foundation who are involved in running our
+    mentorship programs. Anyone can email into this group.
+  logo: groups/assets/graphql.svg
+  about-url: https://linuxfoundation.org
+#  development-list: https://link-to-dev-list
+#  youtube: https://youtube.com/...
+  slack: https://slack.graphql.org
+#  irc: '#project'
+#  discourse: https://project.discourse.org
+#  chat: https://project.slack.com
+#  calendar: https://calendar.google.com
+#  charter: ../CHARTER.md
+  code-of-conduct: https://code-of-conduct.graphql.org
+#  contributing: ../CONTRIBUTING.md
+  artwork: https://github.com/graphql/artwork
+  twitter-username: graphql
+#  linkedin-username: project
+  git:
+    - repo: https://github.com/graphql/foundation
+#    - repo: https://github.com/project/repo2
+#    - repo: https://github.com/project/repo3
+#    - repo: https://github.com/project/repo4
+  list-members:
+    - email: lee@leebyron.com
+      name: Lee Byron
+      roles:
+        - title: Executive Director, GraphQL
+      github-username: leebyron
+      twitter-username: leeb
+      linkedin-username: lee-byron-a5097a163
+    - email: rikki.schulte@gmail.com
+      name: Rikki Schulte
+      github-username: acao
+      twitter-username: rikki_js
+      linkedin-username: rikkischulte
+    - email: ivan.goncharov.ua@gmail.com
+      name: Ivan Goncharov
+      github-username: IvanGoncharov
+      twitter-username: E1Goncharov
+      linkedin-username: igoncharov
+    - email: uri.goldshtein@gmail.com
+      name: Uri Goldshtein
+      github-username: urigo
+      twitter-username: UriGoldshtein
+      linkedin-username: urigo
+    - email: obinna@gatsbyjs.com
+      name: Obinna Ekwuno
+      github-username: Ekwuno
+      twitter-username: Obinnaspeaks
+      linkedin-username: ekwunoobinna
+    - email: bwarner@linuxfoundation.org
+      name: Brian Warner
+      github-username: brianwarner
+      twitter-username: realBrianWarner
+      linkedin-username: brianwarner
