@@ -1,0 +1,53 @@
+# vim: ts=2 sw=2 et
+
+security:
+  name: 'Security team'
+  description: >
+    This group is for receiving security vulnerability disclosures, and coordination on remediation.
+    Anyone may send mail to this group, although if you are not already a member of a GraphQL
+    Foundation mailing list your message will be held for moderation. Please be patient, and a
+    moderator will release your message to the group.
+  logo: groups/assets/graphql.svg
+  about-url: https://linuxfoundation.org
+#  development-list: https://link-to-dev-list
+#  youtube: https://youtube.com/...
+  slack: https://slack.graphql.org
+#  irc: '#project'
+#  discourse: https://project.discourse.org
+#  chat: https://project.slack.com
+#  calendar: https://calendar.google.com
+#  charter: ../CHARTER.md
+  code-of-conduct: https://code-of-conduct.graphql.org
+#  contributing: ../CONTRIBUTING.md
+  artwork: https://github.com/graphql/artwork
+  twitter-username: graphql
+#  linkedin-username: project
+  git:
+    - repo: https://github.com/graphql/foundation
+#    - repo: https://github.com/project/repo2
+#    - repo: https://github.com/project/repo3
+#    - repo: https://github.com/project/repo4
+  list-members:
+    - email: lee@leebyron.com
+      name: Lee Byron
+      roles:
+        - title: Executive Director, GraphQL
+      github-username: leebyron
+      twitter-username: leeb
+      linkedin-username: lee-byron-a5097a163
+    - email: rikki.schulte@gmail.com
+      name: Rikki Schulte
+      github-username: acao
+      twitter-username: rikki_js
+      linkedin-username: rikkischulte
+    - email: ivan.goncharov.ua@gmail.com
+      name: Ivan Goncharov
+      github-username: IvanGoncharov
+      twitter-username: E1Goncharov
+      linkedin-username: igoncharov
+    - email: orta.therox@gmail.com
+      name: Orta Therox
+      github-username: orta
+      twitter-username: orta
+      linkedin-username: ortatherox
+
