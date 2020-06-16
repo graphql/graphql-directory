@@ -12,6 +12,7 @@ Foundation](https://foundation.graphql.org/join), and help provide essential fin
 our work!
 
 * [Mentorship coordination team](mentorship.md)
+* [Security team](security.md)
 
 
 ---
@@ -19,5 +20,5 @@ our work!
 This directory is automatically generated.  To make changes, please submit a
 pull request against a file in [groups](/groups).
 
-<!-- Last generated: 2020-06-05 at 04:32:20  -->
+<!-- Last generated: 2020-06-16 at 16:30:34  -->
 
