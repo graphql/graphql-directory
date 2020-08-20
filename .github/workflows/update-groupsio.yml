@@ -4,6 +4,7 @@ name: Update Groups.io
 on:
   push:
     branches:
+      - main
       - master
     paths:
       - 'groups/*.yml' # These are the paths which are watched for changes
