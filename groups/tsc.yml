@@ -111,8 +111,8 @@ tsc:
           term-ends: 2022-12-31
     - email: lndndark@gmail.com
       name: Sasha Solomon
-        roles:
-          - title: Alternate email address
+      roles:
+        - title: Alternate email address
     - email: caniszczyk@linuxfoundation.org
       name: Chris Aniszczyk
       roles:
