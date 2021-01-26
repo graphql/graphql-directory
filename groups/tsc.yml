@@ -38,24 +38,28 @@ tsc:
       linkedin-username: lee-byron-a5097a163
     - email: andreas.marek@fastmail.fm
       name: Andi Marek
+      roles:
         - title: TSC member
           is-voting: True
           term-begins: 2020-11-01
           term-ends: 2022-12-31
     - email: benjie@jemjie.com
       name: Benjie Gillam
+      roles:
         - title: TSC member
           is-voting: True
           term-begins: 2020-11-01
           term-ends: 2021-12-31
     - email: nyteshade@gmail.com
       name: Brielle Harrison
+      roles:
         - title: TSC member
           is-voting: True
           term-begins: 2020-11-01
           term-ends: 2021-12-31
     - email: dan.schafer@gmail.com
       name: Dan Schafer
+      roles:
         - title: TSC member
           is-voting: True
           term-begins: 2020-11-01
