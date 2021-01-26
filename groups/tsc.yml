@@ -99,7 +99,7 @@ tsc:
           term-begins: 2020-11-01
           term-ends: 2022-12-31
     - email: sasha@sashatsolomon.com
-	    name: Sasha Solomon
+      name: Sasha Solomon
       roles:
         - title: TSC member
           is-voting: True
