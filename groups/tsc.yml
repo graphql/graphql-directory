@@ -1,0 +1,119 @@
+# vim: ts=2 sw=2 et
+
+tsc:
+  name: 'GraphQL Steering Committee'
+  description: >
+    This group is for the GraphQL Steering Committee, as outlined in the GraphQL Specification
+    Membership agreement. The Steering Committee (TSC) is responsible for all technical oversight of
+    the open source projects. In particular, the TSC is responsible for approving official GraphQL
+    specification releases and coordinating between projects.
+  logo: groups/assets/graphql.svg
+  about-url: https://github.com/graphql/graphql-wg/blob/master/GraphQL-TSC.md
+#  development-list: https://link-to-dev-list
+  youtube: https://youtube.graphql.org/
+  slack: https://slack.graphql.org
+#  irc: '#project'
+#  discourse: https://project.discourse.org
+#  chat: https://project.slack.com
+  calendar: https://calendar.graphql.org
+#  charter: ../CHARTER.md
+  code-of-conduct: https://code-of-conduct.graphql.org
+#  contributing: ../CONTRIBUTING.md
+  artwork: https://github.com/graphql/artwork
+  twitter-username: graphql
+#  linkedin-username: project
+  git:
+    - repo: https://github.com/graphql/graphql-wg
+#    - repo: https://github.com/project/repo2
+#    - repo: https://github.com/project/repo3
+#    - repo: https://github.com/project/repo4
+  list-members:
+    - email: lee@leebyron.com
+      name: Lee Byron
+      roles:
+        - title: Executive Director, GraphQL
+          is-voting: True
+      github-username: leebyron
+      twitter-username: leeb
+      linkedin-username: lee-byron-a5097a163
+    - email: andreas.marek@fastmail.fm
+      name: Andi Marek
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-11-01
+          term-ends: 2022-12-31
+    - email: benjie@jemjie.com
+      name: Benjie Gillam
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-11-01
+          term-ends: 2021-12-31
+    - email: nyteshade@gmail.com
+      name: Brielle Harrison
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-11-01
+          term-ends: 2021-12-31
+    - email: dan.schafer@gmail.com
+      name: Dan Schafer
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-11-01
+          term-ends: 2022-12-31
+    - email: ivan.goncharov.ua@gmail.com
+      name: Ivan Goncharov
+      roles:
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-11-01
+          term-ends: 2021-12-31
+      github-username: IvanGoncharov
+      twitter-username: E1Goncharov
+      linkedin-username: igoncharov
+    - email: mmahoney@fb.com
+      name: Matt Mahoney
+      roles:
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-11-01
+          term-ends: 2021-12-31
+    - email: james@apollographql.com
+      name: James Baxley
+      roles:
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-11-01
+          term-ends: 2021-12-31
+    - email: schrockn@elementl.com
+      name: Nick Schrock
+      roles:
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-11-01
+          term-ends: 2022-12-31
+    - email: robzhu@amazon.com
+      name: Rob Zhu
+      roles:
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-11-01
+          term-ends: 2022-12-31
+    - email: sasha@sashatsolomon.com
+	    name: Sasha Solomon
+      roles:
+        - title: TSC member
+          is-voting: True
+          term-begins: 2020-11-01
+          term-ends: 2022-12-31
+    - email: lndndark@gmail.com
+      name: Sasha Solomon
+        roles:
+          - Alternate email address
+    - email: caniszczyk@linuxfoundation.org
+      name: Chris Aniszczyk
+      roles:
+        - title: Staff
+    - email: bwarner@linuxfoundation.org
+      name: Brian Warner
+      roles:
+        - title: Staff
