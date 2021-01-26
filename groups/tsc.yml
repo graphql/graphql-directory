@@ -112,7 +112,7 @@ tsc:
     - email: lndndark@gmail.com
       name: Sasha Solomon
         roles:
-          - Alternate email address
+          - title: Alternate email address
     - email: caniszczyk@linuxfoundation.org
       name: Chris Aniszczyk
       roles:
