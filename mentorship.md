@@ -6,7 +6,7 @@
 This group is for coordination of mentorship programs within the GraphQL Foundation. The members of this list are individuals from the GraphQL Foundation who are involved in running our mentorship programs. Anyone can email into this group.
 
 
-[About](https://linuxfoundation.org) | [Mailing list](mailto:mentorship@lists.foundation.graphql.org) | [Slack](https://slack.graphql.org) | [Twitter](https://twitter.com/graphql) | [Artwork](https://github.com/graphql/artwork)
+[About](https://foundation.graphql.org) | [Mailing list](mailto:mentorship@lists.foundation.graphql.org) | [Slack](https://slack.graphql.org) | [Twitter](https://twitter.com/graphql) | [Artwork](https://github.com/graphql/artwork)
 ## Governance:
 
 
