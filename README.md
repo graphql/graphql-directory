@@ -11,6 +11,7 @@ GraphQL, please consider becoming a member of the [GraphQL
 Foundation](https://foundation.graphql.org/join), and help provide essential financial support for
 our work!
 
+* [GraphQL Steering Committee](tsc.md)
 * [Mentorship coordination team](mentorship.md)
 * [Security team](security.md)
 
@@ -20,5 +21,5 @@ our work!
 This directory is automatically generated.  To make changes, please submit a
 pull request against a file in [groups](/groups).
 
-<!-- Last generated: 2020-06-16 at 16:30:34  -->
+<!-- Last generated: 2021-01-26 at 02:42:43  -->
 
