@@ -1,6 +1,6 @@
 # vim: ts=2 sw=2 et
 
-tsc:
+tsc-private:
   name: 'GraphQL Steering Committee'
   description: >
     This group is for the GraphQL Steering Committee, as outlined in the GraphQL Specification
