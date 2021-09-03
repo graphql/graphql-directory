@@ -6,7 +6,7 @@
 This group is for the GraphQL Steering Committee, as outlined in the GraphQL Specification Membership agreement. The Steering Committee (TSC) is responsible for all technical oversight of the open source projects. In particular, the TSC is responsible for approving official GraphQL specification releases and coordinating between projects.
 
 
-[About](https://github.com/graphql/graphql-wg/blob/master/GraphQL-TSC.md) | [Mailing list](mailto:tsc-private@lists.foundation.graphql.org) | [Calendar](https://calendar.graphql.org) | [Slack](https://slack.graphql.org) | [Twitter](https://twitter.com/graphql) | [YouTube](https://youtube.graphql.org/) | [Artwork](https://github.com/graphql/artwork)
+[About](https://github.com/graphql/graphql-wg/blob/master/GraphQL-TSC.md) | [Mailing list](mailto:tsc-private@lists.foundation.graphql.org) | [Calendar](https://calendar.graphql.org) | [Chat](https://discord.graphql.org) | [Twitter](https://twitter.com/graphql) | [YouTube](https://youtube.graphql.org/) | [Artwork](https://graphql.org/brand)
 ## Governance:
 
 
