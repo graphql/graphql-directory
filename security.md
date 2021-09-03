@@ -6,7 +6,7 @@
 This group is for receiving security vulnerability disclosures, and coordination on remediation. Anyone may send mail to this group, although if you are not already a member of a GraphQL Foundation mailing list your message will be held for moderation. Please be patient, and a moderator will release your message to the group.
 
 
-[About](https://foundation.graphql.org) | [Mailing list](mailto:security@lists.foundation.graphql.org) | [Slack](https://slack.graphql.org) | [Twitter](https://twitter.com/graphql) | [Artwork](https://github.com/graphql/artwork)
+[About](https://foundation.graphql.org) | [Mailing list](mailto:security@lists.foundation.graphql.org) | [Calendar](https://calendar.graphql.org) | [Chat](https://discord.graphql.org) | [Twitter](https://twitter.com/graphql) | [Artwork](https://graphql.org/brand)
 ## Governance:
 
 
