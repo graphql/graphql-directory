@@ -11,10 +11,9 @@ security:
   about-url: https://foundation.graphql.org
 #  development-list: https://link-to-dev-list
 #  youtube: https://youtube.com/...
-  discord: https://discord.graphql.org
 #  irc: '#project'
 #  discourse: https://project.discourse.org
-#  chat: https://project.slack.com
+  chat: https://discord.graphql.org
 #  calendar: https://calendar.google.com
 #  charter: ../CHARTER.md
   code-of-conduct: https://code-of-conduct.graphql.org
