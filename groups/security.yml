@@ -11,7 +11,7 @@ security:
   about-url: https://foundation.graphql.org
 #  development-list: https://link-to-dev-list
 #  youtube: https://youtube.com/...
-  slack: https://slack.graphql.org
+  discord: https://discord.graphql.org
 #  irc: '#project'
 #  discourse: https://project.discourse.org
 #  chat: https://project.slack.com
@@ -19,7 +19,7 @@ security:
 #  charter: ../CHARTER.md
   code-of-conduct: https://code-of-conduct.graphql.org
 #  contributing: ../CONTRIBUTING.md
-  artwork: https://github.com/graphql/artwork
+  artwork: https://graphql.org/brand
   twitter-username: graphql
 #  linkedin-username: project
   git:
