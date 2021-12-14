@@ -1,4 +1,8 @@
 
+***Please note:*** *This utility is being archived as it will be replaced by an LF-hosted tool to manage mailing lists.*
+
+---
+
 # Workgroup and Maintainer Directory
 
 [GraphQL](https://graphql.org) is an open source project, supported by the [GraphQL
